@@ -1,5 +1,5 @@
 Spell Checking for Python
-==================
+=================
 
 For when spelling is hard
 
