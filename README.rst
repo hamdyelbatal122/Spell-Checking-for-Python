@@ -15,6 +15,7 @@ Usage
         def prop(self):
             return 7
 
+
 >>> c = CantSpell()
 >>> c.test(3, 4)
 7
